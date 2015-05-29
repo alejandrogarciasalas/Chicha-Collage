@@ -1,0 +1,10 @@
+# ChichaCollage
+Generative collages made out of chicha posters
+ 
+ The images used in this work are derivatives of "Afiches Chicha" album by Museo de Arte Callejero [April 19, 2011 via [Flickr](https://www.flickr.com/photos/muaca/sets/72157626532958972/#)] 
+
+Modifications: The images have been cropped to properly fit the intended design.
+
+Terms of Use: This work is licensed under  the [Creative Commons Attribution 2.0 Generic License](https://creativecommons.org/licenses/by-nc-sa/2.0/).
+
+
